@@ -16,6 +16,7 @@ Predavanja:
 ## Korak dalje u PyTorchu
 - [Colab](https://colab.research.google.com/drive/1gJAAN3UI9005ecVmxPun5ZLCGu4YBtLo)
 - [uvećanje podataka](https://colab.research.google.com/drive/1gJAAN3UI9005ecVmxPun5ZLCGu4YBtLo)
+- [podrška za uvećanje podataka u PyTorchu](https://pytorch.org/docs/stable/torchvision/transforms.html)
 - [validacija](https://medium.com/@daouda.dala/deep-learning-with-pytorch-selecting-hyperparameters-8e44d7cc78da)
 
 ## Standardne građevne jedinice i polunadzirano učenje
