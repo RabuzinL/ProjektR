@@ -1,9 +1,13 @@
 # ProjektR
 
 Repozitorij za rad na predmetu Projekt R
----
+
 FER, akgod. 2020./2021.
+
 ---
+## Mentor:
+* Prof. dr. sc. Siniša Šegvić
+
 ## Studenti:
 * Bruno Ćorić
 * Dario Deković
@@ -15,6 +19,3 @@ FER, akgod. 2020./2021.
 * Lovro Rabuzin
 * Jakov Rukavina
 * Bernard Spiegl
-
-## Mentor:
-* Prof. dr. sc. Siniša Šegvić
