@@ -2,6 +2,8 @@
 
 ## Konvolucijski modeli za vizualno raspoznavanje
 
+Prva laboratorijska vježba iz dubokog učenja (zadatci 0c, 3,4,5): [upute](http://www.zemris.fer.hr/~ssegvic/du/lab1.shtml)
+
 Druga laboratorijska vježba iz dubokog učenja: [upute](https://dlunizg.github.io/lab2/)
 
 Udžbenik: [konvolucijski modeli](https://www.deeplearningbook.org/contents/convnets.html)
