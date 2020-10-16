@@ -6,7 +6,7 @@ Prva laboratorijska vježba iz dubokog učenja (zadatci 0c, 3,4,5): [upute](http
 
 Druga laboratorijska vježba iz dubokog učenja: [upute](https://dlunizg.github.io/lab2/)
 
-Pytorch [skripta](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf)
+Deep learning with PyTorch (6. poglavlje) [skripta](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf)
 
 Udžbenik: [konvolucijski modeli](https://www.deeplearningbook.org/contents/convnets.html)
 
