@@ -2,7 +2,7 @@
 
 Repozitorij za rad na predmetu Projekt R
 
-Dokumentacija: https://www.overleaf.com/project/5f9af197c9d1fb00019faa03
+Dokumentacija: https://www.overleaf.com/4599764868tcdpnwzrvtnx
 
 FER, akgod. 2020./2021.
 
